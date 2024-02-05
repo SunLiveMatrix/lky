@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1707100024 source:/home/admin/lcp.net/lky/lkyc/main.c
+
+1707109833 source:/home/admin/lcp.net/lky/lkyc/PortEventClick/Click/Label.cpp
+	"stdio.h"
+	"stdlib.h"
+	"stdint.h"
+	"stdarg.h"
+	"string"
+	<algorithm>
+	<iostream>
+	<map>
+	<sstream>
+	<string>
+	<utility>
+	<vector>
+
